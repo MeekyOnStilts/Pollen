@@ -33,7 +33,6 @@ echo '{
   "AllowScreenLock": true,
   "ExtensionAllowedTypes": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": null,
   "PasswordManagerEnabled": "true",
   "TaskManagerEndProcessEnabled": "true",
   "UptimeLimit": "null",
